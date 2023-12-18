@@ -47,7 +47,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 #### Textures/Models
 
+- [Aseprite](https://www.aseprite.org/) - Source-available (previously open-source) tool for creating textures using pixelart.
 - [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats.
+- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license.
+- [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser.
 
 ### Coding
 
