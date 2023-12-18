@@ -8,6 +8,9 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
   - [Scripting](#scripting)
   - [Utility](#utility)
 - [Apps](#apps)
+  - [Assetmaking](#assetmaking)
+    - [Music](#music)
+    - [Textures/Models](#texturesmodels)
   - [Coding](#coding)
   - [CLI](#cli)
     - [Packaging](#packaging)
@@ -33,6 +36,18 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) - Asset information dumper/lister, accessible using in-game commands.
 
 ## Apps
+
+### Assetmaking
+
+#### Music
+
+- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music.
+- [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users.
+- [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level.
+
+#### Textures/Models
+
+- [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats.
 
 ### Coding
 
