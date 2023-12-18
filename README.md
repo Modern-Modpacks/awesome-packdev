@@ -26,14 +26,33 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Scripting
 
-- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript.
-- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game.
-- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) - JavaScript script loader allowing for interactions with the game mainly through the event system.
-- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs) - Addon to KubeJS, adding support for VSCode intellisense.
+- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker)
+  - Version: 1.7.10+
+  - Modloader: Forge/Fabric (1.17.1+)
+  - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript.
+
+- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript)
+  - Version: 1.12
+  - Modloader: Forge
+  - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game.
+    
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs)
+  - Version: 1.14+
+  - Modloader: Forge/Fabric (1.18.2+)
+  - JavaScript script loader allowing for interactions with the game mainly through the event system.
+  - **⚠️ PLEASE DO NOT USE KUBEJS 1.12, IT IS VERY LIMITED IN FUNCTION**
+  
+- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs)
+  - Version: 1.18.1+
+  - Modloader: Forge/Fabric (1.18.2+)
+  - Addon to KubeJS, adding support for VSCode intellisense. 
 
 ### Utility
 
-- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) - Asset information dumper/lister, accessible using in-game commands.
+- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme)
+  - Version: 1.7.10+
+  - Modloader: Forge/Fabric (1.14.4+)
+  - Asset information dumper/lister, accessible using in-game commands.
 
 ## Apps
 
