@@ -79,6 +79,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Websites
 
+- [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
