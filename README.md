@@ -39,7 +39,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Packaging
 
-- [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook used internally by the Almost Reliable team allowing for distribution of modpacks
+- [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks.
 - [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control.
 - [Packwiz](https://packwiz.infra.link/) - Automation utility for distributing modpacks across the CurseForge and Modrinth ecosystems, written in Go.
 - [Pax](https://github.com/froehlichA/pax) - Automation utility for distributing modpacks across the CurseForge ecosystem, focused on collaboration and written in Nim.
