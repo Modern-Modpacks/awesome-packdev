@@ -13,6 +13,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
     - [Packaging](#packaging)
   - [Productivity](#productivity)
 - [Resources](#resources)
+  - [Discord Bots](#discord-bots)
   - [Discord Servers](#discord-servers)
   - [Websites](#websites)
 - [Contributing](#contributing)
@@ -59,6 +60,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ## Resources
 
+### Discord Bots
+
+- [Linkie](https://linkie.shedaniel.dev/) - Bot providing various useful utilities for mod and modpack developers, the main one being the ability to see information about various mappings.
+
 ### Discord Servers
 
 - [Almost Reliable](https://discord.com/invite/ThFnwZCyYY) - Community owned by the Almost Reliable team, offering support for their mods.
@@ -75,6 +80,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Websites
 
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
+- [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods) - General list of mods for different versions that improve the performance of the game and fix various bugs.
