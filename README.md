@@ -88,6 +88,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods) - General list of mods for different versions that improve the performance of the game and fix various bugs.
 
+---
+
+[**Go Back Up**](#table-of-contents)
+
 ## Contributing
 
 1. Fork the repository
