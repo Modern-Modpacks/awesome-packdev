@@ -9,7 +9,8 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
   - [Utility](#utility)
 - [Apps](#apps)
   - [Coding](#coding)
-  - [Packaging](#packaging)
+  - [CLI](#cli)
+    - [Packaging](#packaging)
   - [Productivity](#productivity)
 - [Resources](#resources)
   - [Discord Servers](#discord-servers)
@@ -37,7 +38,12 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app.
 - [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license.
 
-### Packaging
+### CLI
+
+- [CarbonJS](https://github.com/malezjaa/carbonjs) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [Seems to be abandoned](https://carbon.beanstech.tech/).
+- [KJSPKG](https://github.com/Modern-Modpacks/kjspkg) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3.
+
+#### Packaging
 
 - [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks.
 - [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control.
@@ -68,6 +74,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Websites
 
+- [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods) - General list of mods for different versions that improve the performance of the game and fix various bugs.
