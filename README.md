@@ -80,9 +80,11 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Websites
 
 - [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
+- [CurseRinth](https://curserinth.kuylar.dev/) - Bridge website between CurseForge and Modrinth APIs that shows modpacks and mods from both ecosystems.
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
+- [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods) - General list of mods for different versions that improve the performance of the game and fix various bugs.
 
