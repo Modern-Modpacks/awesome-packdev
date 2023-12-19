@@ -2,9 +2,14 @@
 
 A curated list of mods, apps, and resources simplifying the lives of Minecraft modpack developers.
 
-## Table of Contents
+**THIS PROJECT IS NOT ENDORSED BY THE MAINTAINERS OF [THE ORIGINAL AWESOME LIST]((https://github.com/sindresorhus/awesome)), NOR WILL IT EVER BE SUBMITTED TO THE LIST BECAUSE [THEIR REQUIRED GUIDELINES](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md) ARE NOT BEING FULLY ENFORCED HERE. ~~well, as with most projects in that list :trollface:~~**
 
-- [Legend](#legend)
+## Contents
+
+- [Icon Legend](#icon-legend)
+  - [Versions](#versions)
+  - [Modloaders](#modloaders)
+  - [Misc](#misc)
 - [Mods](#mods)
   - [Scripting](#scripting)
   - [Utility](#utility)
@@ -23,25 +28,41 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Contributing](#contributing)
 - [License](#license)
 
-## Legend
+## Icon Legend
 
-- [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") - Forge modloader.
-- [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") - Fabric modloader.
-- [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software") - Paid software.
-- [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software") - Free and open-source software.
+### Versions
+
+* [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") - Supports 1.7 (and up).
+* [![1.12](icons/versions/12.png)](## "Supports 1.12") [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") - Supports 1.12 (and up).
+* [![1.16](icons/versions/16.png)](## "Supports 1.16") [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - Supports 1.16 (and up).
+* [![1.18](icons/versions/18.png)](## "Supports 1.18") [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") - Supports 1.18 (and up).
+* [![1.19](icons/versions/19.png)](## "Supports 1.19") [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") - Supports 1.19 (and up).
+* [![1.20](icons/versions/20.png)](## "Supports 1.20") [![1.20+](icons/versions/plus/20.png)](## "Supports 1.20 and up") - Supports 1.20 (and up).
+
+### Modloaders
+
+* [![forge](icons/modloaders/forge.png)](## "Forge exclusive") - Forge/NeoForge-exclusive mod.
+* [![fabric](icons/modloaders/fabric.png)](## "Fabric exclusive") - Fabric/Quilt-exclusive mod.
+
+### Misc
+
+* [![paid](icons/misc/paid.png)](## "Paid") - Paid software.
+* [![foss](icons/misc/foss.png)](## "Free and open-source") - Free and open-source software.
+* [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Unmaintained/abandoned project.
+* [![borked](icons/misc/borked.png)](## "Temporarily borked") - Temporarily borked project.
 
 ## Mods
 
 ### Scripting
 
-- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.7+ [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.17+ - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript.
-- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.12 - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game.
-- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.14+, [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.18+ - JavaScript script loader allowing for interactions with the game mainly through the event system. Older versions not recommended.  
-- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge")[![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.18+ - Addon to KubeJS, adding support for VSCode intellisense. 
+- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
+- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
 
 ### Utility
 
-- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.7+ [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.14+ - Asset information dumper/lister, accessible using in-game commands.
+- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) - Asset information dumper/lister, accessible using in-game commands. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
 
 ## Apps
 
@@ -49,43 +70,43 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 #### Music
 
-- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
-- [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
-- [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music. [![paid](icons/misc/paid.png)](## "Paid")
+- [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 #### Textures/Models
 
-- [Aseprite](https://www.aseprite.org/) - Source-available (previously open-source) tool for creating textures using pixelart. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
-- [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
-- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
-- [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [Aseprite](https://www.aseprite.org/) - Source-available (previously open-source) tool for creating textures using pixelart. [![paid](icons/misc/paid.png)](## "Paid")
+- [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 ### Coding
 
-- [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
-- [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 ### CLI
 
-- [CarbonJS](https://github.com/malezjaa/carbonjs) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [Seems to be abandoned](https://carbon.beanstech.tech/).
-- [KJSPKG](https://github.com/Modern-Modpacks/kjspkg) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3.
+- [CarbonJS](https://github.com/malezjaa/carbonjs) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](https://carbon.beanstech.tech/ "Unmaintained/abandoned")
+- [KJSPKG](https://github.com/Modern-Modpacks/kjspkg) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 ### Discord Bots
 
-- [Linkie](https://linkie.shedaniel.dev/) - Bot providing various useful utilities for mod and modpack developers, the main one being the ability to see information about various mappings.
+- [Linkie](https://linkie.shedaniel.dev/) - Bot providing various useful utilities for mod and modpack developers, the main one being the ability to see information about various mappings. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 #### Packaging
 
-- [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks.
-- [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control.
-- [Packwiz](https://packwiz.infra.link/) - Automation utility for distributing modpacks across the CurseForge and Modrinth ecosystems, written in Go.
-- [Pax](https://github.com/froehlichA/pax) - Automation utility for distributing modpacks across the CurseForge ecosystem, focused on collaboration and written in Nim.
+- [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
+- [Packwiz](https://packwiz.infra.link/) - Automation utility for distributing modpacks across the CurseForge and Modrinth ecosystems, written in Go. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Pax](https://github.com/froehlichA/pax) - Automation utility for distributing modpacks across the CurseForge ecosystem, focused on collaboration and written in Nim. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 ### Productivity
 
-- [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
-- [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
-- [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![paid](icons/misc/paid.png)](## "Paid")
+- [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![paid](icons/misc/paid.png)](## "Paid")
+- [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Trello](https://trello.com) - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board.
 
 ## Resources
@@ -107,7 +128,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Websites
 
 - [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
-- [CurseRinth](https://curserinth.kuylar.dev/) - Bridge website between CurseForge and Modrinth APIs that shows modpacks and mods from both ecosystems.
+- [CurseRinth](https://curserinth.kuylar.dev/) - Bridge website between CurseForge and Modrinth APIs that shows modpacks and mods from both ecosystems. [![borked](icons/misc/borked.png)](## "Temporarily borked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
@@ -117,18 +138,14 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ---
 
-[**Go Back Up**](#table-of-contents)
+[**Go Back Up**](#contents)
 
 ## Contributing
 
-1. Fork the repository
-2. Clone it locally
-3. Add your mods/apps/resources to the correct categories and subcategories. If you are not sure, add them to whatever categories you see most fit and mention the fact in your pull request.
-4. Make sure the list is alphabetically sorted after your modification.
-5. Create and submit the pull request, be sure to clearly state what you've added/modified.
+If you wish to add something to the list, please first read the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CC_Zero_badge.svg/88px-CC_Zero_badge.svg.png)](https://github.com/Modern-Modpacks/awesome-packdev/blob/main/LICENSE)
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CC_Zero_badge.svg/88px-CC_Zero_badge.svg.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This repository is licensed under CC0, and thus freely available for redistribution and modification without any conditions.
