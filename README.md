@@ -32,14 +32,14 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Scripting
 
-- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker) (Forge 1.7+, Fabric 1.17+) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript.
-- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript) (Forge 1.12) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game.
-- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) (Forge 1.14+, Fabric 1.18+) - JavaScript script loader allowing for interactions with the game mainly through the event system. Older versions not recommended.  
-- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs) (Forge, Fabric 1.18+) - Addon to KubeJS, adding support for VSCode intellisense. 
+- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.7+ [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.17+ - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript.
+- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.12 - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game.
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.14+, [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.18+ - JavaScript script loader allowing for interactions with the game mainly through the event system. Older versions not recommended.  
+- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge")[![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.18+ - Addon to KubeJS, adding support for VSCode intellisense. 
 
 ### Utility
 
-- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) (Forge 1.7+, Fabric 1.14+) - Asset information dumper/lister, accessible using in-game commands.
+- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) ([![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.7+ [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.14+) - Asset information dumper/lister, accessible using in-game commands.
 
 ## Apps
 
