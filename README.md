@@ -2,10 +2,6 @@
 
 A curated list of mods, apps, and resources simplifying the lives of Minecraft modpack developers.
 
----
-
-**THIS PROJECT IS NOT ENDORSED BY THE MAINTAINERS OF [THE ORIGINAL AWESOME LIST]((https://github.com/sindresorhus/awesome)), NOR WILL IT EVER BE SUBMITTED TO THE LIST BECAUSE [THEIR REQUIRED GUIDELINES](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md) ARE NOT BEING FULLY ENFORCED HERE. ~~well, as with most projects in that list :trollface:~~**
-
 ## Contents
 
 - [Icon Legend](#icon-legend)
@@ -168,3 +164,7 @@ If you wish to add something to the list, please first read the [contribution gu
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CC_Zero_badge.svg/88px-CC_Zero_badge.svg.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This repository is licensed under CC0, and thus freely available for redistribution and modification without any conditions.
+
+---
+
+**THIS PROJECT IS NOT ENDORSED BY THE MAINTAINERS OF [THE ORIGINAL AWESOME LIST]((https://github.com/sindresorhus/awesome)), NOR WILL IT EVER BE SUBMITTED TO THE LIST BECAUSE [THEIR REQUIRED GUIDELINES](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md) ARE NOT BEING FULLY ENFORCED HERE. ~~well, as with most projects in that list :trollface:~~**
