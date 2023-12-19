@@ -58,21 +58,29 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Documentation
 
 - [Better Questing](https://curseforge.com/minecraft/mc-mods/better-questing) - Questing mod only accessible for older versions with vanilla-esque customizable design. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [Better Questing Unofficial](https://legacy.curseforge.com/minecraft/mc-mods/better-questing-unofficial) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Better Questing Unofficial](https://curseforge.com/minecraft/mc-mods/better-questing-unofficial) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge) - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-- [Hardcore Questing Mode](https://legacy.curseforge.com/minecraft/mc-mods/hardcore-questing-mode) - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
+- [Hardcore Questing Mode](https://curseforge.com/minecraft/mc-mods/hardcore-questing-mode) - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
 - [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli) - Simple data-driven library mod for adding in-game documentation books. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-- [Quest Additions](https://legacy.curseforge.com/minecraft/mc-mods/quests-additions) - Unofficial addon for FTB Quests, adding various extra features like repeatable rewards and new tasks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [Quest Additions](https://curseforge.com/minecraft/mc-mods/quests-additions) - Unofficial addon for FTB Quests, adding various extra features like repeatable rewards and new tasks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 
 ### Scripting
 
 - [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
+- [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages) - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [Packmode](https://curseforge.com/minecraft/mc-mods/packmode) - Addon for CraftTweaker, adding a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
 
 ### Utility
 
+- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [Load My Resources](https://curseforge.com/minecraft/mc-mods/load-my-resources-forge) - Resourcepack loader, maintained by the creator of Fancy Menu, Keksuccino. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader) - Resource-loading tool, allowing modpack developers to add instance-wide datapacks and resourcepacks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [Paxi](https://curseforge.com/minecraft/mc-mods/paxi) - Global resource/data pack loader, developed by YUNGNICKYOUNG. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [Resource Reloader](https://legacy.curseforge.com/minecraft/mc-mods/resource-reloader) - Utility, adding a set of commands to reload only specific types of resources (instead of reloading all of them with F3+T), speeding up the process. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Resource Loder](https://curseforge.com/minecraft/mc-mods/resource-loader) - Resource-loading tool specialized for older versions of the game using older-versioned resourcepacks. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) - Asset information dumper/lister, accessible using in-game commands. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
 
 ## Apps
@@ -127,7 +135,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Almost Reliable](https://discord.com/invite/ThFnwZCyYY) - Community owned by the Almost Reliable team, offering support for their mods.
 - [BlameJared](http://discord.blamejared.com/) - Developer-owned community for CraftTweaker, offering support for modpack developers who use it.
 - [FTB](https://go.ftb.team/discord) - Server owned by the FTB team, providing support for modpacks using their mods and more.
-- [Kekscord](https://discord.gg/rhayah27GC) - Server created by Keksuccino, the developer of FancyMenu and Drippy Loading Screen, offering support for both of these mods and more.
+- [Kekscord](https://discord.gg/rhayah27GC) - Server created by Keksuccino, the developer of FancyMenu, Drippy Loading Screen, and Load My Resources, offering support for both of these mods and more.
 - [Latvian.dev](https://discord.gg/lat) - Server created by the developers of KubeJS, the members of which frequently provide help for other people using it and JavaScript in general.
 - [Minecraft Pack Development (MPD)](https://discord.gg/R4tBduGsne) - General community of modpack developers, sharing their works and help to others.
 - [Modded Minecraft](https://discord.gg/moddedmc) - General community for all things modded Minecraft.
