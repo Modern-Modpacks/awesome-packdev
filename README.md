@@ -4,6 +4,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ## Table of Contents
 
+- [Legend](#legend)
 - [Mods](#mods)
   - [Scripting](#scripting)
   - [Utility](#utility)
@@ -21,6 +22,11 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
   - [Websites](#websites)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Legend
+
+- [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
+- [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
 
 ## Mods
 
@@ -41,21 +47,21 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 #### Music
 
-- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music.
-- [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users.
-- [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level.
+- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
+- [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
 
 #### Textures/Models
 
-- [Aseprite](https://www.aseprite.org/) - Source-available (previously open-source) tool for creating textures using pixelart.
-- [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats.
-- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license.
-- [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser.
+- [Aseprite](https://www.aseprite.org/) - Source-available (previously open-source) tool for creating textures using pixelart. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
+- [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
 
 ### Coding
 
-- [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app.
-- [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license.
+- [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
 
 ### CLI
 
@@ -71,9 +77,9 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Productivity
 
-- [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming.
-- [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features.
-- [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features.
+- [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
+- [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
+- [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
 - [Trello](https://trello.com) - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board.
 
 ## Resources
