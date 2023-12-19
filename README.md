@@ -25,6 +25,8 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ## Legend
 
+- [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") - Forge modloader.
+- [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") - Fabric modloader.
 - [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software") - Paid software.
 - [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software") - Free and open-source software.
 
