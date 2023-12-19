@@ -46,6 +46,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Misc
 
 * [![paid](icons/misc/paid.png)](## "Paid") - Paid software.
+* [![freeware](icons/misc/freeware.png)](## "Conditionally free") - Conditionally free software.
 * [![foss](icons/misc/foss.png)](## "Free and open-source") - Free and open-source software.
 * [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Unmaintained/abandoned project.
 * [![borked](icons/misc/borked.png)](## "Temporarily borked") - Temporarily borked project.
@@ -86,7 +87,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 #### Music
 
-- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music. [![paid](icons/misc/paid.png)](## "Paid")
+- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 - [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
@@ -120,10 +121,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Productivity
 
-- [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![paid](icons/misc/paid.png)](## "Paid")
-- [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![paid](icons/misc/paid.png)](## "Paid")
+- [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
+- [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 - [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [Trello](https://trello.com) - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board.
+- [Trello](https://trello.com) - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 
 ## Resources
 
