@@ -126,7 +126,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 - [Almost Reliable](https://discord.com/invite/ThFnwZCyYY) - Community owned by the Almost Reliable team, offering support for their mods.
 - [BlameJared](http://discord.blamejared.com/) - Developer-owned community for CraftTweaker, offering support for modpack developers who use it.
-- [Create](https://discord.gg/AjRTh6B) - Server owned by the developers of the Create, providing support for modpacks using that specific mod.
+- [FTB](https://go.ftb.team/discord) - Server owned by the FTB team, providing support for modpacks using their mods and more.
 - [Kekscord](https://discord.gg/rhayah27GC) - Server created by Keksuccino, the developer of FancyMenu and Drippy Loading Screen, offering support for both of these mods and more.
 - [Latvian.dev](https://discord.gg/lat) - Server created by the developers of KubeJS, the members of which frequently provide help for other people using it and JavaScript in general.
 - [Minecraft Pack Development (MPD)](https://discord.gg/R4tBduGsne) - General community of modpack developers, sharing their works and help to others.
