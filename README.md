@@ -15,9 +15,9 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
   - [Coding](#coding)
   - [CLI](#cli)
     - [Packaging](#packaging)
+  - [Discord Bots](#discord-bots)
   - [Productivity](#productivity)
 - [Resources](#resources)
-  - [Discord Bots](#discord-bots)
   - [Discord Servers](#discord-servers)
   - [Websites](#websites)
 - [Contributing](#contributing)
@@ -68,6 +68,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [CarbonJS](https://github.com/malezjaa/carbonjs) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [Seems to be abandoned](https://carbon.beanstech.tech/).
 - [KJSPKG](https://github.com/Modern-Modpacks/kjspkg) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3.
 
+### Discord Bots
+
+- [Linkie](https://linkie.shedaniel.dev/) - Bot providing various useful utilities for mod and modpack developers, the main one being the ability to see information about various mappings.
+
 #### Packaging
 
 - [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks.
@@ -83,10 +87,6 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Trello](https://trello.com) - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board.
 
 ## Resources
-
-### Discord Bots
-
-- [Linkie](https://linkie.shedaniel.dev/) - Bot providing various useful utilities for mod and modpack developers, the main one being the ability to see information about various mappings.
 
 ### Discord Servers
 
