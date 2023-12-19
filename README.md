@@ -25,8 +25,8 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ## Legend
 
-- [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software")
-- [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software")
+- [![paid](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/paid.png)](## "Paid software") - Paid software.
+- [![foss](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/foss.png)](## "Free and open-source software") - Free and open-source software.
 
 ## Mods
 
