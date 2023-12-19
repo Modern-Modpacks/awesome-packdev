@@ -55,6 +55,15 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ## Mods
 
+### Documentation
+
+- [Better Questing](https://curseforge.com/minecraft/mc-mods/better-questing) - Questing mod only accessible for older versions with vanilla-esque customizable design. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Better Questing Unofficial](https://legacy.curseforge.com/minecraft/mc-mods/better-questing-unofficial) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge) - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [Hardcore Questing Mode](https://legacy.curseforge.com/minecraft/mc-mods/hardcore-questing-mode) - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
+- [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli) - Simple data-driven library mod for adding in-game documentation books. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [Quest Additions](https://legacy.curseforge.com/minecraft/mc-mods/quests-additions) - Unofficial addon for FTB Quests, adding various extra features like repeatable rewards and new tasks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+
 ### Scripting
 
 - [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
