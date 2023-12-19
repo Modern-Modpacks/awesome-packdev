@@ -9,6 +9,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
   - [Modloaders](#modloaders)
   - [Misc](#misc)
 - [Mods](#mods)
+  - [Documentation](#documentation)
   - [Scripting](#scripting)
   - [Utility](#utility)
 - [Apps](#apps)
