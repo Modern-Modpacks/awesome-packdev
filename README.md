@@ -39,7 +39,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Utility
 
-- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) ([![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.7+ [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.14+) - Asset information dumper/lister, accessible using in-game commands.
+- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme) [![Forge](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/forge.png)](## "Forge") 1.7+ [![Fabric](https://raw.githubusercontent.com/Modern-Modpacks/awesome-packdev/main/icons/fabric.png)](## "Fabric") 1.14+ - Asset information dumper/lister, accessible using in-game commands.
 
 ## Apps
 
