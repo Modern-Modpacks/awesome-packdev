@@ -123,7 +123,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 - [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 - [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
-- [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 - [Trello](https://trello.com) - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 
 ## Resources
