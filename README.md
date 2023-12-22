@@ -17,9 +17,9 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
     - [Music](#music)
     - [Textures/Models](#texturesmodels)
   - [Coding](#coding)
-  - [CLI](#cli)
+  - [CLI](#cli-foss)
     - [Packaging](#packaging)
-  - [Discord Bots](#discord-bots)
+  - [Discord Bots](#discord-bots-foss)
   - [Productivity](#productivity)
 - [Resources](#resources)
   - [Discord Servers](#discord-servers)
@@ -103,21 +103,21 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
-### CLI
+### CLI [![foss](icons/misc/foss.png)](## "Free and open-source")
 
-- [CarbonJS](https://github.com/malezjaa/carbonjs) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](https://carbon.beanstech.tech/ "Unmaintained/abandoned (click for info)")
-- [KJSPKG](https://github.com/Modern-Modpacks/kjspkg) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3. [![foss](icons/misc/foss.png)](## "Free and open-source")
-
-### Discord Bots
-
-- [Linkie](https://linkie.shedaniel.dev/) - Bot providing various useful utilities for mod and modpack developers, the main one being the ability to see information about various mappings. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [CarbonJS](https://github.com/malezjaa/carbonjs) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://carbon.beanstech.tech/ "Unmaintained/abandoned (click for info)")
+- [KJSPKG](https://github.com/Modern-Modpacks/kjspkg) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3.
 
 #### Packaging
 
-- [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
-- [Packwiz](https://packwiz.infra.link/) - Automation utility for distributing modpacks across the CurseForge and Modrinth ecosystems, written in Go. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [Pax](https://github.com/froehlichA/pax) - Automation utility for distributing modpacks across the CurseForge ecosystem, focused on collaboration and written in Nim. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks.
+- [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control.
+- [Packwiz](https://packwiz.infra.link/) - Automation utility for distributing modpacks across the CurseForge and Modrinth ecosystems, written in Go.
+- [Pax](https://github.com/froehlichA/pax) - Automation utility for distributing modpacks across the CurseForge ecosystem, focused on collaboration and written in Nim.
+
+### Discord Bots [![foss](icons/misc/foss.png)](## "Free and open-source")
+
+- [Linkie](https://linkie.shedaniel.dev/) - Bot providing various useful utilities for mod and modpack developers, the main one being the ability to see information about various mappings.
 
 ### Productivity
 
