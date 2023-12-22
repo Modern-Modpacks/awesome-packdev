@@ -121,6 +121,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Productivity
 
+- [Draw.io](https://draw.io) - Tool for creating diagrams that also allows for real-time collaboration, very useful for visualizing code. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Figma](https://figma.com) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 - [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 - [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
