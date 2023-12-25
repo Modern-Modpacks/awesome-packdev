@@ -75,7 +75,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 - [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [Load My Resources](https://curseforge.com/minecraft/mc-mods/load-my-resources-forge) - Resourcepack loader, maintained by the creator of Fancy Menu, Keksuccino. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
+- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader) - Resource-loading tool, allowing modpack developers to add instance-wide datapacks and resourcepacks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Paxi](https://curseforge.com/minecraft/mc-mods/paxi) - Global resource/data pack loader, developed by YUNGNICKYOUNG. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Pefect Spawn](https://curseforge.com/minecraft/mc-mods/perfect-spawn) - Utility, allowing packdevs to modify the spawn position of the player with a higher degree of control. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
