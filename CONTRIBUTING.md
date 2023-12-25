@@ -5,6 +5,7 @@ Hey! Thank you for choosing to contribute! Here are some basic rules to abide by
 * Put all suggestions in their respective categories and subcategories.
   * If you are unsure, add the suggestion to whatever category you see fit and mention this fact in your pull request.
   * You can add new sections if you so desire.
+    * Sections names must be Title Case and can have icons attached.
 * Make sure your suggestion is not a duplicate.
 * Keep on-theme. If something is moddev-related instead of being packdev-related, don't add it.
 * Keep lists alphabetically sorted.
