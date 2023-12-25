@@ -25,6 +25,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Resources](#resources)
   - [Discord Servers](#discord-servers)
   - [Websites](#websites)
+    - [Fun](#fun)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -161,6 +162,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods) - General list of mods for different versions that improve the performance of the game and fix various bugs.
+
+#### Fun
+
+- [ThisRecipeDoesNotExist](https://thisrecipedoesnotexist.modernmodpacks.site/) - Random recipe generator, can serve as a inspiration for your actual custom recipes.
 
 ---
 
