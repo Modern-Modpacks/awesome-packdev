@@ -31,12 +31,12 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Versions
 
-* [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") - Supports 1.7 (and up).
-* [![1.12](icons/versions/12.png)](## "Supports 1.12") [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") - Supports 1.12 (and up).
-* [![1.16](icons/versions/16.png)](## "Supports 1.16") [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - Supports 1.16 (and up).
-* [![1.18](icons/versions/18.png)](## "Supports 1.18") [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") - Supports 1.18 (and up).
-* [![1.19](icons/versions/19.png)](## "Supports 1.19") [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") - Supports 1.19 (and up).
-* [![1.20](icons/versions/20.png)](## "Supports 1.20") [![1.20+](icons/versions/plus/20.png)](## "Supports 1.20 and up") - Supports 1.20 (and up).
+* [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.7](icons/versions/no/7.png)](## "Doesn't support 1.7") [![no1.7+](icons/versions/plus/no/7.png)](## "Doesn't support 1.7 and up") - Supports/doesn't support 1.7 (and up).
+* [![1.12](icons/versions/12.png)](## "Supports 1.12") [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![no1.12](icons/versions/no/12.png)](## "Doesn't support 1.12") [![no1.12+](icons/versions/plus/no/12.png)](## "Doesn't support 1.12 and up") - Supports/doesn't support 1.12 (and up).
+* [![1.16](icons/versions/16.png)](## "Supports 1.16") [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.16](icons/versions/no/16.png)](## "Doesn't support 1.16") [![no1.16+](icons/versions/plus/no/16.png)](## "Doesn't support 1.16 and up") - Supports/doesn't support 1.16 (and up).
+* [![1.18](icons/versions/18.png)](## "Supports 1.18") [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![no1.18](icons/versions/no/18.png)](## "Doesn't support 1.18") [![no1.18+](icons/versions/plus/no/18.png)](## "Doesn't support 1.18 and up") - Supports/doesn't support 1.18 (and up).
+* [![1.19](icons/versions/19.png)](## "Supports 1.19") [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") [![no1.19](icons/versions/no/19.png)](## "Doesn't support 1.19") [![no1.19+](icons/versions/plus/no/19.png)](## "Doesn't support 1.19 and up") - Supports/doesn't support 1.19 (and up).
+* [![1.20](icons/versions/20.png)](## "Supports 1.20") [![1.20+](icons/versions/plus/20.png)](## "Supports 1.20 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20") [![no1.20+](icons/versions/plus/no/20.png)](## "Doesn't support 1.20 and up") - Supports/doesn't support 1.20 (and up).
 
 ### Modloaders
 
