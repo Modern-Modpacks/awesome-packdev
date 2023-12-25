@@ -52,13 +52,14 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 * [![foss](icons/misc/foss.png)](## "Free and open-source") - Free and open-source software.
 * [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Unmaintained/abandoned project.
 * [![borked](icons/misc/borked.png)](## "Temporarily borked") - Temporarily borked project.
+* [![fork](icons/misc/fork.png)](## "Forked") - Forked project.
 
 ## Mods
 
 ### Documentation
 
 - [Better Questing](https://curseforge.com/minecraft/mc-mods/better-questing) - Questing mod only accessible for older versions with vanilla-esque customizable design. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [Better Questing Unofficial](https://curseforge.com/minecraft/mc-mods/better-questing-unofficial) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Better Questing Unofficial](https://curseforge.com/minecraft/mc-mods/better-questing-unofficial) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12") [![fork](icons/misc/fork.png)](## "Forked")
 - [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge) - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [Hardcore Questing Mode](https://curseforge.com/minecraft/mc-mods/hardcore-questing-mode) - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
 - [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli) - Simple data-driven library mod for adding in-game documentation books. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
@@ -98,19 +99,19 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 - [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
 - [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Tenacity](https://github.com/jd/tenacity) - Open-source fork of Audacity, the software used for editing audio at a lower level. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
 
 #### Textures/Models
 
 - [Aseprite](https://www.aseprite.org/) - Source-available (previously open-source) tool for creating textures using pixelart. [![paid](icons/misc/paid.png)](## "Paid")
 - [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
 - [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 ### Coding
 
 - [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
 
 ### CLI [![foss](icons/misc/foss.png)](## "Free and open-source")
 
@@ -120,7 +121,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 #### Packaging
 
 - [AlmostPacked](https://github.com/AlmostReliable/almostpacked) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks.
-- [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control.
+- [InstanceSync](https://github.com/Vazkii/InstanceSync) - Git hook allowing for distribution of modpacks using version control. [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
 - [Packwiz](https://packwiz.infra.link/) - Automation utility for distributing modpacks across the CurseForge and Modrinth ecosystems, written in Go.
 - [Pax](https://github.com/froehlichA/pax) - Automation utility for distributing modpacks across the CurseForge ecosystem, focused on collaboration and written in Nim.
 
@@ -155,7 +156,8 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Websites
 
 - [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
-- [CurseRinth](https://curserinth.kuylar.dev/) - Bridge website between CurseForge and Modrinth APIs that shows modpacks and mods from both ecosystems. [![borked](icons/misc/borked.png)](## "Temporarily borked")
+- [CurseRinth](https://curserinth.kuylar.dev/) - Bridge website between CurseForge and Modrinth APIs that shows modpacks and mods from both ecosystems. [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
+- [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![fork](icons/misc/fork.png)](## "Forked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
