@@ -156,7 +156,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Websites
 
 - [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
-- [CurseRinth](https://curserinth.kuylar.dev/) - Bridge website between CurseForge and Modrinth APIs that shows modpacks and mods from both ecosystems. [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
+- [CurseRinth](https://curserinth.kuylar.dev/) - Frontend for a the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api. [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
 - [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![fork](icons/misc/fork.png)](## "Forked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
