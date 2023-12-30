@@ -1,4 +1,4 @@
-# Awesome Packdev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Packdev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://splashes.modernmodpacks.site/?splashes=Awesome!,Not finished!,Randomly generated!,Made in markdown!,Icon-ful!,Version-indifferent!,Helping packdevs since 2023!,Credit the creators!,Completely free!,Alphabetically sorted!,CC0!,§fDark mode!,Not affiliated with Notch!,Beans funny!Self-promotion!§cSus§epiciously good!,Unnecessary!,Has §1c§2o§3l§4o§5r§6s§e!,Made by Modern Modpacks!,Useless features!,:heh:,Hello world!,More mods for the mod god!,Award-winning!,Good (sometimes)!,0 flux rifts!,Requires no APIs!,Woo\, MPD!,Designed by a committee!,Looks good!,Silent!,Smash that star button!,Contributions welcome!&size=300" align="right">
 
 A curated list of mods, apps, and resources simplifying the lives of Minecraft modpack developers.
 
