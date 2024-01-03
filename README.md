@@ -80,6 +80,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Packmode](https://curseforge.com/minecraft/mc-mods/packmode) - Library that adds a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
+- [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy) - Experimental port of ProbeJS for 1.16.5. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![fork](icons/misc/fork.png)](## "Forked")
 
 ### Utility
 
