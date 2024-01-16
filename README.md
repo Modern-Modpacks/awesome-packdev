@@ -52,6 +52,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 * [![foss](icons/misc/foss.png)](## "Free and open-source") - Free and open-source software.
 * [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Unmaintained/abandoned project.
 * [![borked](icons/misc/borked.png)](## "Temporarily borked") - Temporarily borked project.
+* [![experimental](icons/misc/experimental.png)](## "Experimental") - Experimental project.
 * [![fork](icons/misc/fork.png)](## "Forked") - Forked project.
 
 ## Mods
@@ -80,7 +81,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs/) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Packmode](https://curseforge.com/minecraft/mc-mods/packmode/) - Library that adds a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs/) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
-- [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy/) - Experimental port of ProbeJS for 1.16.5. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![fork](icons/misc/fork.png)](## "Forked")
+- [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy/) - Experimental port of ProbeJS for 1.16.5. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![experimental](icons/misc/experimental.png)](## "Experimental") [![fork](icons/misc/fork.png)](## "Forked") 
 
 ### Utility
 
@@ -161,7 +162,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![fork](icons/misc/fork.png)](## "Forked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
-- [ModDB](https://tizu.dev/moddb/) - Frontend that allows you to search projects on Modrinth, Curseforge and other websites at once. [![borked](icons/misc/borked.png)](## "Temporarily borked")
+- [ModDB](https://tizu.dev/moddb/) - Frontend that allows you to search projects on Modrinth, Curseforge and other websites at once. [![borked](icons/misc/borked.png)](## "Temporarily borked") [![experimental](icons/misc/experimental.png)](## "Experimental")
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
