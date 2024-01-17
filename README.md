@@ -87,10 +87,12 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 - [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
-- [Modern Custom Discs](https://legacy.curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16")
+- [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16")
+- [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/) - Library that allows packdevs to add custom trees with Minecraft's .nbt structure files. [![1.20](icons/versions/20.png)](## "Supports 1.20")
 - [Pefect Spawn](https://curseforge.com/minecraft/mc-mods/perfect-spawn/) - Utility, allowing packdevs to modify the spawn position of the player with a higher degree of control. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [Resource Reloader](https://curseforge.com/minecraft/mc-mods/resource-reloader/) - Utility, adding a set of commands to reload only specific types of resources (instead of reloading all of them with F3+T), speeding up the process. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [TellMe](https://curseforge.com/minecraft/mc-mods/tellme/) - Asset information dumper/lister, accessible using in-game commands. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
+- [Totally Harmonious Item Stages](https://curseforge.com/minecraft/mc-mods/totally-harmonious-item-stages/) - Gamestage-based utility mod for item gating. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 
 ## Apps
