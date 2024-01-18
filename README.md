@@ -154,6 +154,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Modded Minecraft](https://discord.gg/moddedmc/) - General community for all things modded Minecraft.
 - [Modded Minecraft Reviews](https://discord.gg/vGphAv7TZA/) - Developer-owned server for the Modded Minecraft Reviews project.
 - [Modern Modpacks](https://discord.modernmodpacks.site/) - Developer-owned server for the Modern Modpacks organization, also offering help for other 1.16 project maintainers.
+- [Packwiz](https://discord.gg/Csh8zbbhCt/) - Official support server for packwiz.
 - [Shedaniel's Development](https://discord.gg/Vs9AVkxjYY/) - Server owned by shedaniel, the creator of Roughly Enough Items and other mods, providing support for them.
 - [The 1.12 Modding Coalition](https://discord.gg/2JZ8KePDKd/) - Community offering help for all 1.12 mod and modpack creators alike.
 
