@@ -165,7 +165,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![fork](icons/misc/fork.png)](## "Forked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
-- [ModDB](https://tizu.dev/moddb/) - Frontend that allows you to search projects on Modrinth, Curseforge and other websites at once. [![borked](icons/misc/borked.png)](## "Temporarily borked") [![experimental](icons/misc/experimental.png)](## "Experimental")
+- [ModDB](https://tizudev.vercel.app/moddb/) - Frontend that allows you to search projects on Modrinth, Curseforge and other websites at once. [![experimental](icons/misc/experimental.png)](## "Experimental")
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
