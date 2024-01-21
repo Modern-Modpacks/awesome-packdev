@@ -85,6 +85,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Utility
 
+- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
 - [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
 - [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16")
