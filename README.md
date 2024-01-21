@@ -120,7 +120,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### CLI [![foss](icons/misc/foss.png)](## "Free and open-source")
 
-- [CarbonJS](https://github.com/malezjaa/carbonjs/) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://carbon.beanstech.tech/ "Unmaintained/abandoned (click for info)")
+- [CarbonJS](https://github.com/malezjaa/carbonjs/) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://github.com/malezjaa/carbonjs/blob/main/README.md "Unmaintained/abandoned (click for info)")
 - [KJSPKG](https://github.com/Modern-Modpacks/kjspkg/) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 
 #### Packaging
