@@ -73,6 +73,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Paxi](https://curseforge.com/minecraft/mc-mods/paxi/) - Global resource/data pack loader, developed by YUNGNICKYOUNG. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Resource Loder](https://curseforge.com/minecraft/mc-mods/resource-loader/) - Resource-loading tool specialized for older versions of the game using older-versioned resourcepacks. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
 
+### Gameplay/Balancing
+
+- [Undurability](https://www.curseforge.com/minecraft/mc-mods/undurability/) - Makes all item unbreakable by default. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
+
 ### Scripting
 
 - [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker/) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
