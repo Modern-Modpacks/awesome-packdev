@@ -89,6 +89,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Utility
 
+- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
 - [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
 - [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16")
@@ -123,7 +124,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### CLI [![foss](icons/misc/foss.png)](## "Free and open-source")
 
-- [CarbonJS](https://github.com/malezjaa/carbonjs/) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://carbon.beanstech.tech/ "Unmaintained/abandoned (click for info)")
+- [CarbonJS](https://github.com/malezjaa/carbonjs/) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://github.com/malezjaa/carbonjs/blob/main/README.md "Unmaintained/abandoned (click for info)")
 - [KJSPKG](https://github.com/Modern-Modpacks/kjspkg/) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 
 #### Packaging
@@ -158,6 +159,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Modded Minecraft](https://discord.gg/moddedmc/) - General community for all things modded Minecraft.
 - [Modded Minecraft Reviews](https://discord.gg/vGphAv7TZA/) - Developer-owned server for the Modded Minecraft Reviews project.
 - [Modern Modpacks](https://discord.modernmodpacks.site/) - Developer-owned server for the Modern Modpacks organization, also offering help for other 1.16 project maintainers.
+- [Packwiz](https://discord.gg/Csh8zbbhCt/) - Official support server for packwiz.
 - [Shedaniel's Development](https://discord.gg/Vs9AVkxjYY/) - Server owned by shedaniel, the creator of Roughly Enough Items and other mods, providing support for them.
 - [The 1.12 Modding Coalition](https://discord.gg/2JZ8KePDKd/) - Community offering help for all 1.12 mod and modpack creators alike.
 
@@ -168,7 +170,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![fork](icons/misc/fork.png)](## "Forked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
-- [ModDB](https://tizu.dev/moddb/) - Frontend that allows you to search projects on Modrinth, Curseforge and other websites at once. [![borked](icons/misc/borked.png)](## "Temporarily borked") [![experimental](icons/misc/experimental.png)](## "Experimental")
+- [ModDB](https://tizudev.vercel.app/moddb/) - Frontend that allows you to search projects on Modrinth, Curseforge and other websites at once. [![experimental](icons/misc/experimental.png)](## "Experimental")
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
