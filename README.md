@@ -11,6 +11,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Mods](#mods)
   - [Documentation](#documentation)
   - [Resource Loading](#resource-loading)
+  - [Gameplay/Balancing](#gameplaybalancing)
   - [Scripting](#scripting)
   - [Utility](#utility)
 - [Apps](#apps)
@@ -68,37 +69,38 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Resource Loading
 
-- [Load My Resources](https://curseforge.com/minecraft/mc-mods/load-my-resources-forge/) - Resourcepack loader, maintained by the creator of Fancy Menu, Keksuccino. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [Load My Resources](https://curseforge.com/minecraft/mc-mods/load-my-resources-forge/) - Resourcepack loader, maintained by the creator of Fancy Menu, Keksuccino. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader/) - Resource-loading tool, allowing modpack developers to add instance-wide datapacks and resourcepacks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Paxi](https://curseforge.com/minecraft/mc-mods/paxi/) - Global resource/data pack loader, developed by YUNGNICKYOUNG. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Resource Loder](https://curseforge.com/minecraft/mc-mods/resource-loader/) - Resource-loading tool specialized for older versions of the game using older-versioned resourcepacks. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
 
 ### Gameplay/Balancing
 
+- [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) - Allows packdevs to add structures to be generated at spawn on new world creation. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Undurability](https://www.curseforge.com/minecraft/mc-mods/undurability/) - Makes all item unbreakable by default. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
+- [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 
 ### Scripting
 
 - [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker/) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
-- [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages/) - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages/) - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript/) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs/) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Packmode](https://curseforge.com/minecraft/mc-mods/packmode/) - Library that adds a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs/) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
-- [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy/) - Experimental port of ProbeJS for 1.16.5. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![experimental](icons/misc/experimental.png)](## "Experimental") [![fork](icons/misc/fork.png)](## "Forked") 
+- [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy/) - Experimental port of ProbeJS for 1.16.5. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![experimental](icons/misc/experimental.png)](## "Experimental") [![fork](icons/misc/fork.png)](## "Forked") 
 
 ### Utility
 
-- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
-- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
-- [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16")
+- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") 
+- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
+- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
+- [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/) - Library that allows packdevs to add custom trees with Minecraft's .nbt structure files. [![1.20](icons/versions/20.png)](## "Supports 1.20")
 - [Pefect Spawn](https://curseforge.com/minecraft/mc-mods/perfect-spawn/) - Utility, allowing packdevs to modify the spawn position of the player with a higher degree of control. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [Resource Reloader](https://curseforge.com/minecraft/mc-mods/resource-reloader/) - Utility, adding a set of commands to reload only specific types of resources (instead of reloading all of them with F3+T), speeding up the process. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [TellMe](https://curseforge.com/minecraft/mc-mods/tellme/) - Asset information dumper/lister, accessible using in-game commands. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
-- [Totally Harmonious Item Stages](https://curseforge.com/minecraft/mc-mods/totally-harmonious-item-stages/) - Gamestage-based utility mod for item gating. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Totally Harmonious Item Stages](https://curseforge.com/minecraft/mc-mods/totally-harmonious-item-stages/) - Gamestage-based utility mod for item gating. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 
 ## Apps
 
