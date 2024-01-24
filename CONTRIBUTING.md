@@ -13,7 +13,7 @@ Hey! Thank you for choosing to contribute! Here are some basic rules to abide by
 * Try to not use acronyms and abbrivations in the title/description unless their meanings are extremely obvious.
 * All links should start with `https://` and end with a `/`, even image links.
 * If the hyperlink points to a modpage, try to use the non-legacy curseforge one (with the Forge/NeoForge versions if they and the Fabric/Quilt ones are separated into multiple projects).
-* Keep the descriptions breif (about a sentence or two) and add no more than 3 icons.
+* Keep the descriptions breif (about a sentence or two) and add no more than 5 icons.
   * If you have to add more, you are probably trying to pack in too much information. Remember, this list's main goal is to be short-but-awesome.
 * Icons must have a space between each other and the text content. They also must be ordered in the same way as they are in the icon legend.
 * Add ` (click for info)` at the end of an icon's hover text if you are also including a hyperlink attached to it.
