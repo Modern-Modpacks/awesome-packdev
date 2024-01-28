@@ -119,6 +119,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
 - [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Minecraft Title Generator](https://youtu.be/iGaufrACVj4/) - Blockbench plugin that adds a simple way to generate logos in the Minecraft style.
 
 ### Coding
 
@@ -177,7 +178,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") 
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
-- [Unused Textures](https://github.com/malcolmriley/unused-textures) - Large repository of freely-licensed Minecraft-styled textures. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Unused Textures](https://github.com/malcolmriley/unused-textures/) - Large repository of freely-licensed Minecraft-styled textures. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods/) - General list of mods for different versions that improve the performance of the game and fix various bugs.
 
 #### Fun
