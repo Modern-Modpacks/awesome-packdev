@@ -168,20 +168,21 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Websites
 
-- [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
-- [CurseRinth](https://curserinth.kuylar.dev/) - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api. [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
-- [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![fork](icons/misc/fork.png)](## "Forked")
-- [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG.
-- [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot.
+- [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [CurseRinth](https://curserinth.kuylar.dev/) - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") 
+- [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
+- [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [ModDB](https://tizudev.vercel.app/moddb/) - Frontend that allows you to search projects on Modrinth, Curseforge and other websites at once. [![experimental](icons/misc/experimental.png)](## "Experimental")
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
-- [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
+- [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") 
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
+- [Unused Textures](https://github.com/malcolmriley/unused-textures) - Large repository of freely-licensed Minecraft-styled textures. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods/) - General list of mods for different versions that improve the performance of the game and fix various bugs.
 
 #### Fun
 
-- [ThisRecipeDoesNotExist](https://thisrecipedoesnotexist.modernmodpacks.site/) - Random recipe generator, can serve as a inspiration for your actual custom recipes.
+- [ThisRecipeDoesNotExist](https://thisrecipedoesnotexist.modernmodpacks.site/) - Random recipe generator, can serve as a inspiration for your actual custom recipes. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 ---
 
