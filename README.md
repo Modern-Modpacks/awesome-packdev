@@ -83,12 +83,8 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Scripting
 
 - [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker/) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
-<<<<<<< HEAD
 - [Custom Machinery](https://curseforge.com/minecraft/mc-mods/custom-machinery/) - Data-driven utility for adding custom machines with heavy integration with both CraftTweaker and KubeJS. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
 - [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages/) - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-=======
-- [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages/) - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
->>>>>>> 76d69c31461b75f0dd3a1c5a867eef6b35c5ac08
 - [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript/) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs/) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Packmode](https://curseforge.com/minecraft/mc-mods/packmode/) - Library that adds a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
