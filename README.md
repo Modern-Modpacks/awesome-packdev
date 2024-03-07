@@ -52,7 +52,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 * [![freeware](icons/misc/freeware.png)](## "Conditionally free") - Conditionally free software.
 * [![foss](icons/misc/foss.png)](## "Free and open-source") - Free and open-source software.
 * [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Unmaintained/abandoned project.
-* [![borked](icons/misc/borked.png)](## "Temporarily borked") - Temporarily borked project.
+* [![borked](icons/misc/borked.png)](## "Borked") - Borked project.
 * [![experimental](icons/misc/experimental.png)](## "Experimental") - Experimental project.
 * [![fork](icons/misc/fork.png)](## "Forked") - Forked project.
 
@@ -129,7 +129,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### CLI [![foss](icons/misc/foss.png)](## "Free and open-source")
 
-- [CarbonJS](https://github.com/malezjaa/carbonjs/) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://github.com/malezjaa/carbonjs/blob/main/README.md "Unmaintained/abandoned (click for info)")
+- [CarbonJS](https://github.com/malezjaa/carbonjs/) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://github.com/malezjaa/carbonjs/blob/main/README.md "Unmaintained/abandoned (click for info)") [![borked](icons/misc/borked.png)](## "Borked")
 - [KJSPKG](https://github.com/Modern-Modpacks/kjspkg/) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 
 #### Packaging
@@ -171,7 +171,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Websites
 
 - [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [CurseRinth](https://curserinth.kuylar.dev/) - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") 
+- [CurseRinth](https://curserinth.kuylar.dev/) - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") [![borked](icons/misc/borked.png)](## "Borked")
 - [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot. [![foss](icons/misc/foss.png)](## "Free and open-source")
