@@ -161,7 +161,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [FTB](https://go.ftb.team/discord/) - Server owned by the FTB team, providing support for modpacks using their mods and more.
 - [Kekscord](https://discord.gg/rhayah27GC/) - Server created by Keksuccino, the developer of FancyMenu, Drippy Loading Screen, and Load My Resources, offering support for both of these mods and more.
 - [Latvian.dev](https://discord.gg/lat/) - Server created by the developers of KubeJS, the members of which frequently provide help for other people using it and JavaScript in general.
-- [Minecraft Pack Development (MPD)](https://discord.gg/R4tBduGsne/) - General community of modpack developers, sharing their works and help to others.
+- [Minecraft Pack Development (MPD)](https://discord.gg/qcvEe2GPT6/) - General community of modpack developers, sharing their works and help to others.
 - [Modded Minecraft](https://discord.gg/moddedmc/) - General community for all things modded Minecraft.
 - [Modded Minecraft Reviews](https://discord.gg/vGphAv7TZA/) - Developer-owned server for the Modded Minecraft Reviews project.
 - [Modern Modpacks](https://discord.modernmodpacks.site/) - Developer-owned server for the Modern Modpacks organization, also offering help for other 1.16 project maintainers.
