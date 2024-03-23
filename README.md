@@ -176,7 +176,8 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [mcasset.cloud](https://mcasset.cloud/) - Frontend for viewing assets in the different versions of the base Minecraft game. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Mcasset.Cloud](https://mcasset.cloud/) - Frontend for viewing assets in the different versions of the base Minecraft game. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Minecraft GIF to Animated Texture](https://sheeptester.github.io/words-go-here/misc/animated-painting-maker.html/) - Converter for turning GIFs into animated texture PNGs and .mcmeta files usable in-game.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") 
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
