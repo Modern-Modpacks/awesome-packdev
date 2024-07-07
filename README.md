@@ -40,6 +40,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 * [![1.18](icons/versions/18.png)](## "Supports 1.18") [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![no1.18](icons/versions/no/18.png)](## "Doesn't support 1.18") [![no1.18+](icons/versions/plus/no/18.png)](## "Doesn't support 1.18 and up") - Supports/doesn't support 1.18 (and up).
 * [![1.19](icons/versions/19.png)](## "Supports 1.19") [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") [![no1.19](icons/versions/no/19.png)](## "Doesn't support 1.19") [![no1.19+](icons/versions/plus/no/19.png)](## "Doesn't support 1.19 and up") - Supports/doesn't support 1.19 (and up).
 * [![1.20](icons/versions/20.png)](## "Supports 1.20") [![1.20+](icons/versions/plus/20.png)](## "Supports 1.20 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20") [![no1.20+](icons/versions/plus/no/20.png)](## "Doesn't support 1.20 and up") - Supports/doesn't support 1.20 (and up).
+* [![1.21](icons/versions/21.png)](## "Supports 1.21") [![1.21+](icons/versions/plus/21.png)](## "Supports 1.21 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![no1.21+](icons/versions/plus/no/21.png)](## "Doesn't support 1.21 and up") - Supports/doesn't support 1.21 (and up).
 
 ### Modloaders
 
