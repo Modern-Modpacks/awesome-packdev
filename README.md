@@ -4,6 +4,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ## Contents
 
+- [Temporary Modifications](#temporary-modifications)
 - [Icon Legend](#icon-legend)
   - [Versions](#versions)
   - [Modloaders](#modloaders)
@@ -29,6 +30,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
     - [Fun](#fun)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Temporary Modifications
+
+* Due to its recentness, 1.21 is rarely supported. To account for that, "Supports {version} and up" icons exclude 1.21; If you need 1.21 support, look for the mods with the "Supports 1.21" icon in particular.
 
 ## Icon Legend
 
@@ -63,7 +68,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 - [Better Questing](https://curseforge.com/minecraft/mc-mods/better-questing/) - Questing mod only accessible for older versions with vanilla-esque customizable design. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12") [![1.20](icons/versions/20.png)](## "Supports 1.20")
 - [Better Questing Unofficial](https://curseforge.com/minecraft/mc-mods/better-questing-unofficial/) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12") [![fork](icons/misc/fork.png)](## "Forked")
-- [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge/) - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge/) - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Hardcore Questing Mode](https://curseforge.com/minecraft/mc-mods/hardcore-questing-mode/) - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
 - [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/) - Simple data-driven library mod for adding in-game documentation books. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [Quest Additions](https://curseforge.com/minecraft/mc-mods/quests-additions/) - Unofficial addon for FTB Quests, adding various extra features like repeatable rewards and new tasks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
@@ -77,26 +82,26 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Gameplay/Balancing
 
-- [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) - Allows packdevs to add structures to be generated at spawn on new world creation. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Undurability](https://www.curseforge.com/minecraft/mc-mods/undurability/) - Makes all item unbreakable by default. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
+- [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) - Allows packdevs to add structures to be generated at spawn on new world creation. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
+- [Undurability](https://modrinth.com/mod/undurability/) - Makes all item unbreakable by default. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
 - [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 
 ### Scripting
 
-- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker/) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
-- [Custom Machinery](https://curseforge.com/minecraft/mc-mods/custom-machinery/) - Data-driven utility for adding custom machines with heavy integration with both CraftTweaker and KubeJS. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
+- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker/) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
+- [Custom Machinery](https://curseforge.com/minecraft/mc-mods/custom-machinery/) - Data-driven utility for adding custom machines with heavy integration with both CraftTweaker and KubeJS. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages/) - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
 - [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript/) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game. [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs/) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs/) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Packmode](https://curseforge.com/minecraft/mc-mods/packmode/) - Library that adds a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs/) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
+- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs/) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy/) - Experimental port of ProbeJS for 1.16.5. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![experimental](icons/misc/experimental.png)](## "Experimental") [![fork](icons/misc/fork.png)](## "Forked") 
 
 ### Utility
 
-- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") 
+- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Celestial](https://www.curseforge.com/minecraft/mc-mods/celestial/) - Allows packdevs to customize per-dimension skyboxes through a simple JSON config system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
-- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
+- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/) - Library that allows packdevs to add custom trees with Minecraft's .nbt structure files. [![1.20](icons/versions/20.png)](## "Supports 1.20")
