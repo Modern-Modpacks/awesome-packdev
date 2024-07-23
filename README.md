@@ -85,7 +85,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) - Allows packdevs to add structures to be generated at spawn on new world creation. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Undurability](https://modrinth.com/mod/undurability/) - Makes all item unbreakable by default. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
 - [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [Skyblock Builder](https://www.curseforge.com/minecraft/mc-mods/skyblock-builder) - World generation customizer, similar to void island config but for newer versions. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [Skyblock Builder](https://www.curseforge.com/minecraft/mc-mods/skyblock-builder) - World generation customizer, similar to void island config but for newer versions. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 
 ### Scripting
 
