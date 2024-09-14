@@ -70,14 +70,14 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Better Questing Unofficial](https://curseforge.com/minecraft/mc-mods/better-questing-unofficial/) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12") [![fork](icons/misc/fork.png)](## "Forked")
 - [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge/) - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Hardcore Questing Mode](https://curseforge.com/minecraft/mc-mods/hardcore-questing-mode/) - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
-- [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/) - Simple data-driven library mod for adding in-game documentation books. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/) - Simple data-driven library mod for adding in-game documentation books. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Quest Additions](https://curseforge.com/minecraft/mc-mods/quests-additions/) - Unofficial addon for FTB Quests, adding various extra features like repeatable rewards and new tasks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 
 ### Resource Loading
 
 - [Load My Resources](https://curseforge.com/minecraft/mc-mods/load-my-resources-forge/) - Resourcepack loader, maintained by the creator of Fancy Menu, Keksuccino. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader/) - Resource-loading tool, allowing modpack developers to add instance-wide datapacks and resourcepacks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Paxi](https://curseforge.com/minecraft/mc-mods/paxi/) - Global resource/data pack loader, developed by YUNGNICKYOUNG. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [Paxi](https://curseforge.com/minecraft/mc-mods/paxi/) - Global resource/data pack loader, developed by YUNGNICKYOUNG. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [Resource Loder](https://curseforge.com/minecraft/mc-mods/resource-loader/) - Resource-loading tool specialized for older versions of the game using older-versioned resourcepacks. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
 
 ### Gameplay/Balancing
@@ -103,7 +103,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 ### Utility
 
 - [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
-- [Celestial](https://www.curseforge.com/minecraft/mc-mods/celestial/) - Allows packdevs to customize per-dimension skyboxes through a simple JSON config system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
+- [Celestial](https://www.curseforge.com/minecraft/mc-mods/celestial/) - Allows packdevs to customize per-dimension skyboxes through a simple JSON config system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21")
 - [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![1.21](icons/versions/21.png)](## "Supports 1.21") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
