@@ -195,6 +195,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [UniUI](https://tizudev.vercel.app/uniui/) - Opinionated UI library with a web-based editor for making in-game GUIs with KubeJS.
 - [Unused Textures](https://github.com/malcolmriley/unused-textures/) - Large repository of freely-licensed Minecraft-styled textures. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods/) - General list of mods for different versions that improve the performance of the game and fix various bugs.
+- [Writouli](https://writouli.willbl.dev/) - Web editor for [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/)-registered books.
 
 #### Fun
 
