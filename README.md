@@ -185,6 +185,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [CurseRinth](https://curserinth.kuylar.dev/) - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") [![borked](icons/misc/borked.png)](## "Borked")
 - [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
+- [Jacobsjo's Tools And Projects](https://jacobsjo.eu/) - Collection of various web utilities, mainly focused on aiding the development of worldgen datapacks. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Mcasset.Cloud](https://mcasset.cloud/) - Frontend for viewing assets in the different versions of the base Minecraft game. [![foss](icons/misc/foss.png)](## "Free and open-source")
@@ -195,7 +196,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [UniUI](https://tizudev.vercel.app/uniui/) - Opinionated UI library with a web-based editor for making in-game GUIs with KubeJS.
 - [Unused Textures](https://github.com/malcolmriley/unused-textures/) - Large repository of freely-licensed Minecraft-styled textures. [![foss](icons/misc/foss.png)](## "Free and open-source")
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods/) - General list of mods for different versions that improve the performance of the game and fix various bugs.
-- [Writouli](https://writouli.willbl.dev/) - Web editor for [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/)-registered books.
+- [Writouli](https://writouli.willbl.dev/) - Web editor for [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/)-registered books. [![foss](icons/misc/foss.png)](## "Free and open-source")
 
 #### Fun
 
