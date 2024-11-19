@@ -13,8 +13,10 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
   - [Documentation](#documentation)
   - [Resource Loading](#resource-loading)
   - [Gameplay/Balancing](#gameplaybalancing)
+    - [Worldgen](#worldgen)
   - [Scripting](#scripting)
   - [Utility](#utility)
+    - [Command Autocompletion](#command-autocompletion)
 - [Apps](#apps)
   - [Assetmaking](#assetmaking)
     - [Music](#music)
@@ -78,11 +80,16 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Gameplay/Balancing
 
-- [Atlas](https://modrinth.com/mod/atlas/) - Datapack dimension generator, using heighmap images as input. [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![fabric](icons/modloaders/fabric.png)](## "Fabric exclusive")
-- [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) - Allows packdevs to add structures to be generated at spawn on new world creation. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Undurability](https://modrinth.com/mod/undurability/) - Makes all item unbreakable by default. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
-- [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+
+#### Worldgen
+
+- [Atlas](https://modrinth.com/mod/atlas/) - Datapack dimension generator, using heighmap images as input. [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![fabric](icons/modloaders/fabric.png)](## "Fabric exclusive")
+- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20+](icons/versions/plus/no/20.png)](## "Doesn't support 1.20 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
+- [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/) - Library that allows packdevs to add custom trees with Minecraft's .nbt structure files. [![1.20](icons/versions/20.png)](## "Supports 1.20")
 - [Skyblock Builder](https://www.curseforge.com/minecraft/mc-mods/skyblock-builder) - World generation customizer, similar to void island config but for newer versions. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
+- [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) - Allows packdevs to add structures to be generated at spawn on new world creation. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
+- [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [Where Am I Going? (WAIG)](https://www.curseforge.com/minecraft/mc-mods/where-am-i-going) - Biome difficulty customizer; allowing modpack developers to do things like increase/decrease the number of mob spawns, obscure the the name of the biome, etc. [![1.12](icons/versions/12.png)](## "Supports 1.12")
 
 ### Scripting
@@ -102,16 +109,17 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
 - [Celestial](https://www.curseforge.com/minecraft/mc-mods/celestial/) - Allows packdevs to customize per-dimension skyboxes through a simple JSON config system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20+](icons/versions/plus/no/20.png)](## "Doesn't support 1.20 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [NBT Autocomplete](https://curseforge.com/minecraft/mc-mods/nbt-autocomplete/) - Client-side mod which adds support for autocompleting NBT tags when typing commands in chat. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/) - Library that allows packdevs to add custom trees with Minecraft's .nbt structure files. [![1.20](icons/versions/20.png)](## "Supports 1.20")
-- [Perfect Spawn](https://curseforge.com/minecraft/mc-mods/perfect-spawn/) - Utility, allowing packdevs to modify the spawn position of the player with a higher degree of control. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Perfect Spawn](https://curseforge.com/minecraft/mc-mods/perfect-spawn/) - Utility that allows packdevs to modify the spawn position of the player with a higher degree of control. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
 - [Resource Reloader](https://curseforge.com/minecraft/mc-mods/resource-reloader/) - Utility, adding a set of commands to reload only specific types of resources (instead of reloading all of them with F3+T), speeding up the process. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme/) - Asset information dumper/lister, accessible using in-game commands. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
+- [Totally Harmonious Item Stages](https://curseforge.com/minecraft/mc-mods/totally-harmonious-item-stages/) - Gamestage-based utility mod for item gating. Discontinued after 1.20.1, use [Decursio Stages](https://curseforge.com/minecraft/mc-mods/decursio-stages/) instead. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21+](icons/versions/plus/no/21.png)](## "Doesn't support 1.21 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
+
+#### Command Autocompletion
+
+- [NBT Autocomplete](https://curseforge.com/minecraft/mc-mods/nbt-autocomplete/) - Client-side mod which adds support for autocompleting NBT tags when typing commands in chat. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
 - [Suggestion Provider Fix](https://curseforge.com/minecraft/mc-mods/suggestion-provider-fix/) - Simple fix which allows command autocompletion to work with resource locations under any namespace, not just `minecraft:`. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
 - [Suggestion Tweaker](https://curseforge.com/minecraft/mc-mods/suggestion-tweaker/) - Both-sided mod which improves command suggestions in various ways. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
-- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme/) - Asset information dumper/lister, accessible using in-game commands. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
-- [Totally Harmonious Item Stages](https://curseforge.com/minecraft/mc-mods/totally-harmonious-item-stages/) - Gamestage-based utility mod for item gating. Abandoned after 1.20.1, use [Decursio Stages](https://curseforge.com/minecraft/mc-mods/decursio-stages/) instead. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21+](icons/versions/plus/no/21.png)](## "Doesn't support 1.21 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
 
 ## Apps
 
