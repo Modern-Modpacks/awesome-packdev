@@ -64,62 +64,62 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Documentation
 
-- [Better Questing](https://curseforge.com/minecraft/mc-mods/better-questing/) - Questing mod only accessible for older versions with vanilla-esque customizable design. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12") [![1.20](icons/versions/20.png)](## "Supports 1.20")
-- [Better Questing Unofficial](https://curseforge.com/minecraft/mc-mods/better-questing-unofficial/) - Fork of the Better Questing mod, adding more features such as the view mode. [![1.12](icons/versions/12.png)](## "Supports 1.12") [![fork](icons/misc/fork.png)](## "Forked")
-- [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge/) - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-- [Hardcore Questing Mode](https://curseforge.com/minecraft/mc-mods/hardcore-questing-mode/) - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
-- [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/) - Simple data-driven library mod for adding in-game documentation books. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
-- [Quest Additions](https://curseforge.com/minecraft/mc-mods/quests-additions/) - Unofficial addon for FTB Quests, adding various extra features like repeatable rewards and new tasks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
+- [Better Questing](https://curseforge.com/minecraft/mc-mods/better-questing/) [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12") [![1.20](icons/versions/20.png)](## "Supports 1.20") - Questing mod only accessible for older versions with vanilla-esque customizable design.
+- [Better Questing Unofficial](https://curseforge.com/minecraft/mc-mods/better-questing-unofficial/) [![1.12](icons/versions/12.png)](## "Supports 1.12") [![fork](icons/misc/fork.png)](## "Forked") - Fork of the Better Questing mod, adding more features such as the view mode.
+- [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge/) [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") - Questing mod with modern customizable design maintained by the FTB team, mostly popular among modern-version modpack developers.
+- [Hardcore Questing Mode](https://curseforge.com/minecraft/mc-mods/hardcore-questing-mode/) [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") - Questing mod with more experimental features, the main gimmick of which is a custom hardcore-esque mode that can be manipulated with in various ways using the questbook reward system.
+- [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/) [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") - Simple data-driven library mod for adding in-game documentation books.
+- [Quest Additions](https://curseforge.com/minecraft/mc-mods/quests-additions/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") - Unofficial addon for FTB Quests, adding various extra features like repeatable rewards and new tasks.
 
 ### Resource Loading
 
-- [Load My Resources](https://curseforge.com/minecraft/mc-mods/load-my-resources-forge/) - Resourcepack loader, maintained by the creator of Fancy Menu, Keksuccino. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader/) - Resource-loading tool, allowing modpack developers to add instance-wide datapacks and resourcepacks. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Paxi](https://curseforge.com/minecraft/mc-mods/paxi/) - Global resource/data pack loader, developed by YUNGNICKYOUNG. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Resource Loder](https://curseforge.com/minecraft/mc-mods/resource-loader/) - Resource-loading tool specialized for older versions of the game using older-versioned resourcepacks. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Load My Resources](https://curseforge.com/minecraft/mc-mods/load-my-resources-forge/) [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") - Resourcepack loader, maintained by the creator of Fancy Menu, Keksuccino.
+- [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - Resource-loading tool, allowing modpack developers to add instance-wide datapacks and resourcepacks.
+- [Paxi](https://curseforge.com/minecraft/mc-mods/paxi/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - Global resource/data pack loader, developed by YUNGNICKYOUNG.
+- [Resource Loder](https://curseforge.com/minecraft/mc-mods/resource-loader/) [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12") - Resource-loading tool specialized for older versions of the game using older-versioned resourcepacks.
 
 ### Gameplay/Balancing
 
-- [Undurability](https://modrinth.com/mod/undurability/) - Makes all item unbreakable by default. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
+- [Undurability](https://modrinth.com/mod/undurability/) [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") - Makes all item unbreakable by default.
 
 #### Worldgen
 
-- [Atlas](https://modrinth.com/mod/atlas/) - Datapack dimension generator, using heighmap images as input. [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![fabric](icons/modloaders/fabric.png)](## "Fabric exclusive")
-- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) - Tool that allows you to package maps with your modpack as world as world presets. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20+](icons/versions/plus/no/20.png)](## "Doesn't support 1.20 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/) - Library that allows packdevs to add custom trees with Minecraft's .nbt structure files. [![1.20](icons/versions/20.png)](## "Supports 1.20")
-- [Skyblock Builder](https://www.curseforge.com/minecraft/mc-mods/skyblock-builder) - World generation customizer, similar to void island config but for newer versions. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) - Allows packdevs to add structures to be generated at spawn on new world creation. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) - World generation customizer, adding a configurable skyblock-esque void world type. [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [Where Am I Going? (WAIG)](https://www.curseforge.com/minecraft/mc-mods/where-am-i-going) - Biome difficulty customizer; allowing modpack developers to do things like increase/decrease the number of mob spawns, obscure the the name of the biome, etc. [![1.12](icons/versions/12.png)](## "Supports 1.12")
+- [Atlas](https://modrinth.com/mod/atlas/) [![1.19+](icons/versions/plus/19.png)](## "Supports 1.19 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![fabric](icons/modloaders/fabric.png)](## "Fabric exclusive") - Datapack dimension generator, using heighmap images as input.
+- [Lockdown](https://curseforge.com/minecraft/mc-mods/lockdown/) [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.20+](icons/versions/plus/no/20.png)](## "Doesn't support 1.20 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") - Tool that allows you to package maps with your modpack as world as world presets.
+- [Oh The Trees You'll Grow](https://curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow/) [![1.20](icons/versions/20.png)](## "Supports 1.20") - Library that allows packdevs to add custom trees with Minecraft's .nbt structure files.
+- [Skyblock Builder](https://www.curseforge.com/minecraft/mc-mods/skyblock-builder) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") - World generation customizer, similar to void island config but for newer versions.
+- [Starter Structure](https://www.curseforge.com/minecraft/mc-mods/starter-structure/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - Allows packdevs to add structures to be generated at spawn on new world creation.
+- [Void Island Control](https://curseforge.com/minecraft/mc-mods/void-island-control/) [![1.12](icons/versions/12.png)](## "Supports 1.12") - World generation customizer, adding a configurable skyblock-esque void world type.
+- [Where Am I Going? (WAIG)](https://www.curseforge.com/minecraft/mc-mods/where-am-i-going) [![1.12](icons/versions/12.png)](## "Supports 1.12") - Biome difficulty customizer; allowing modpack developers to do things like increase/decrease the number of mob spawns, obscure the the name of the biome, etc.
 
 ### Scripting
 
-- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker/) - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up")
-- [Custom Machinery](https://curseforge.com/minecraft/mc-mods/custom-machinery/) - Data-driven utility for adding custom machines with heavy integration with both CraftTweaker and KubeJS. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20")
-- [CustomMachinery (Fork)](https://curseforge.com/minecraft/mc-mods/custommachinery-fork) - Unofficial port of Custom Machinery to 1.20.1, based on the 1.21 version of the original mod. [![1.20](icons/versions/20.png)](## "Supports 1.20") [![fork](icons/misc/fork.png)](## "Forked")
-- [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages/) - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
-- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript/) - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game. [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs/) - JavaScript script loader allowing for interactions with the game mainly through the event system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Packmode](https://curseforge.com/minecraft/mc-mods/packmode/) - Library that adds a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
-- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs/) - Addon to KubeJS, adding support for VSCode intellisense. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
-- [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy/) - Experimental port of ProbeJS for 1.16.5. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![experimental](icons/misc/experimental.png)](## "Experimental") [![fork](icons/misc/fork.png)](## "Forked") 
+- [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker/) [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") - In-game feature tweaker allowing developers to change certain mechanics using a custom language called ZenScript.
+- [Custom Machinery](https://curseforge.com/minecraft/mc-mods/custom-machinery/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.20](icons/versions/no/20.png)](## "Doesn't support 1.20") - Data-driven utility for adding custom machines with heavy integration with both CraftTweaker and KubeJS.
+- [CustomMachinery (Fork)](https://curseforge.com/minecraft/mc-mods/custommachinery-fork) [![1.20](icons/versions/20.png)](## "Supports 1.20") [![fork](icons/misc/fork.png)](## "Forked") - Unofficial port of Custom Machinery to 1.20.1, based on the 1.21 version of the original mod.
+- [Game Stages](https://curseforge.com/minecraft/mc-mods/game-stages/) [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") - Library, allowing packdevs using mods like CraftTweaker or GroovyScript to add certain "game stages" to players based on their level of progression, that then could be used to alter custom mechanics.
+- [GroovyScript](https://curseforge.com/minecraft/mc-mods/groovyscript/) [![1.12](icons/versions/12.png)](## "Supports 1.12") - Sandboxed Apache Groovy in-game interpreter that includes interfaces for tempering with the game.
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - JavaScript script loader allowing for interactions with the game mainly through the event system.
+- [Packmode](https://curseforge.com/minecraft/mc-mods/packmode/) [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") - Library that adds a "pack mode" system which can be used to alter custom mechanics based on the mode the player selected.
+- [ProbeJS](https://curseforge.com/minecraft/mc-mods/probejs/) [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") - Addon to KubeJS, adding support for VSCode intellisense.
+- [ProbeJS Legacy](https://www.curseforge.com/minecraft/mc-mods/probejs-legacy/) [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![experimental](icons/misc/experimental.png)](## "Experimental") [![fork](icons/misc/fork.png)](## "Forked") - Experimental port of ProbeJS for 1.16.5.
 
 ### Utility
 
-- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
-- [Celestial](https://www.curseforge.com/minecraft/mc-mods/celestial/) - Allows packdevs to customize per-dimension skyboxes through a simple JSON config system. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) - Mob spawn editor, configurable through JSON files. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) - Packdev tool that allows you to add customizable music discs with .ogg files. [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [Perfect Spawn](https://curseforge.com/minecraft/mc-mods/perfect-spawn/) - Utility that allows packdevs to modify the spawn position of the player with a higher degree of control. [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [Resource Reloader](https://curseforge.com/minecraft/mc-mods/resource-reloader/) - Utility, adding a set of commands to reload only specific types of resources (instead of reloading all of them with F3+T), speeding up the process. [![1.12](icons/versions/12.png)](## "Supports 1.12")
-- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme/) - Asset information dumper/lister, accessible using in-game commands. [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21")
-- [Totally Harmonious Item Stages](https://curseforge.com/minecraft/mc-mods/totally-harmonious-item-stages/) - Gamestage-based utility mod for item gating. Discontinued after 1.20.1, use [Decursio Stages](https://curseforge.com/minecraft/mc-mods/decursio-stages/) instead. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21+](icons/versions/plus/no/21.png)](## "Doesn't support 1.21 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
+- [AtlasViewer](https://www.curseforge.com/minecraft/mc-mods/atlasviewer/) [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") - Atlas explorer that allows you to view and inspect atlases and the textures comprising them through and in-game menu.
+- [Celestial](https://www.curseforge.com/minecraft/mc-mods/celestial/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - Allows packdevs to customize per-dimension skyboxes through a simple JSON config system.
+- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control/) [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") - Mob spawn editor, configurable through JSON files.
+- [Modern Custom Discs](https://curseforge.com/minecraft/mc-mods/modern-custom-discs/) [![1.16](icons/versions/16.png)](## "Supports 1.16") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") - Packdev tool that allows you to add customizable music discs with .ogg files.
+- [Perfect Spawn](https://curseforge.com/minecraft/mc-mods/perfect-spawn/) [![1.7](icons/versions/7.png)](## "Supports 1.7") [![1.12](icons/versions/12.png)](## "Supports 1.12") - Utility that allows packdevs to modify the spawn position of the player with a higher degree of control.
+- [Resource Reloader](https://curseforge.com/minecraft/mc-mods/resource-reloader/) [![1.12](icons/versions/12.png)](## "Supports 1.12") - Utility, adding a set of commands to reload only specific types of resources (instead of reloading all of them with F3+T), speeding up the process.
+- [TellMe](https://curseforge.com/minecraft/mc-mods/tellme/) [![1.7+](icons/versions/plus/7.png)](## "Supports 1.7 and up") [![no1.21](icons/versions/no/21.png)](## "Doesn't support 1.21") - Asset information dumper/lister, accessible using in-game commands.
+- [Totally Harmonious Item Stages](https://curseforge.com/minecraft/mc-mods/totally-harmonious-item-stages/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![no1.21+](icons/versions/plus/no/21.png)](## "Doesn't support 1.21 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Gamestage-based utility mod for item gating. Discontinued after 1.20.1, use [Decursio Stages](https://curseforge.com/minecraft/mc-mods/decursio-stages/) instead.
 
 #### Command Autocompletion
 
-- [NBT Autocomplete](https://curseforge.com/minecraft/mc-mods/nbt-autocomplete/) - Client-side mod which adds support for autocompleting NBT tags when typing commands in chat. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up")
-- [Suggestion Provider Fix](https://curseforge.com/minecraft/mc-mods/suggestion-provider-fix/) - Simple fix which allows command autocompletion to work with resource locations under any namespace, not just `minecraft:`. [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive")
-- [Suggestion Tweaker](https://curseforge.com/minecraft/mc-mods/suggestion-tweaker/) - Both-sided mod which improves command suggestions in various ways. [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up")
+- [NBT Autocomplete](https://curseforge.com/minecraft/mc-mods/nbt-autocomplete/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") - Client-side mod which adds support for autocompleting NBT tags when typing commands in chat.
+- [Suggestion Provider Fix](https://curseforge.com/minecraft/mc-mods/suggestion-provider-fix/) [![1.16+](icons/versions/plus/16.png)](## "Supports 1.16 and up") [![forge](icons/modloaders/forge.png)](## "Forge exclusive") - Simple fix which allows command autocompletion to work with resource locations under any namespace, not just `minecraft:`.
+- [Suggestion Tweaker](https://curseforge.com/minecraft/mc-mods/suggestion-tweaker/) [![1.18+](icons/versions/plus/18.png)](## "Supports 1.18 and up") - Both-sided mod which improves command suggestions in various ways.
 
 ## Apps
 
@@ -127,32 +127,32 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 #### Music
 
-- [FL Studio](https://www.image-line.com/) - Paid tool professional tool for making digital music. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
-- [LMMS](https://lmms.io/) - Free and open-source multimedia studio prefect for beginners as well as advanced users. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [Tenacity](https://github.com/jd/tenacity/) - Open-source fork of Audacity, the software used for editing audio at a lower level. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
+- [FL Studio](https://www.image-line.com/) [![freeware](icons/misc/freeware.png)](## "Conditionally free") - Paid tool professional tool for making digital music.
+- [LMMS](https://lmms.io/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Free and open-source multimedia studio prefect for beginners as well as advanced users.
+- [Tenacity](https://github.com/jd/tenacity/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked") - Open-source fork of Audacity, the software used for editing audio at a lower level.
 
 #### Textures/Models
 
-- [Aseprite](https://www.aseprite.org/) - Source-available (previously open-source) tool for creating textures using pixelart. [![paid](icons/misc/paid.png)](## "Paid")
-- [Blockbench](https://www.blockbench.net/) - Specialized tool for editing Minecraft's various model formats. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [LibreSprite](https://libresprite.github.io/) - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
-- [LibreSprite Dotto](https://libresprite.github.io/Dotto/) - Version of LibreSprite available directly inside a web browser. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Aseprite](https://www.aseprite.org/) [![paid](icons/misc/paid.png)](## "Paid") - Source-available (previously open-source) tool for creating textures using pixelart.
+- [Blockbench](https://www.blockbench.net/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Specialized tool for editing Minecraft's various model formats.
+- [LibreSprite](https://libresprite.github.io/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked") - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license.
+- [LibreSprite Dotto](https://libresprite.github.io/Dotto/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Version of LibreSprite available directly inside a web browser.
 - [Minecraft Title Generator](https://youtu.be/iGaufrACVj4/) - Blockbench plugin that adds a simple way to generate logos in the Minecraft style.
 
 ### Coding
 
-- [VSCode](https://code.visualstudio.com/) - General Integrated Development Environment perfect for working with Java and scripting languages in the same app. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [VSCodium](https://vscodium.com/) - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
+- [VSCode](https://code.visualstudio.com/) [![foss](icons/misc/foss.png)](## "Free and open-source") - General Integrated Development Environment perfect for working with Java and scripting languages in the same app.
+- [VSCodium](https://vscodium.com/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked") - Distribution of VSCode, providing compiled binaries of it licensed under an open-source license.
 
 ### CLI [![foss](icons/misc/foss.png)](## "Free and open-source")
 
-- [CarbonJS](https://github.com/malezjaa/carbonjs/) - Advanced package manager for KubeJS scripts implementing version control, written in Rust. [![unmaintained](icons/misc/unmaintained.png)](https://github.com/malezjaa/carbonjs/blob/main/README.md "Unmaintained/abandoned (click for info)") [![borked](icons/misc/borked.png)](## "Borked")
-- [KJSPKG](https://github.com/Modern-Modpacks/kjspkg/) - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3. [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up")
+- [CarbonJS](https://github.com/malezjaa/carbonjs/) [![unmaintained](icons/misc/unmaintained.png)](https://github.com/malezjaa/carbonjs/blob/main/README.md "Unmaintained/abandoned (click for info)") [![borked](icons/misc/borked.png)](## "Borked") - Advanced package manager for KubeJS scripts implementing version control, written in Rust.
+- [KJSPKG](https://github.com/Modern-Modpacks/kjspkg/) [![1.12+](icons/versions/plus/12.png)](## "Supports 1.12 and up") - Simple lightweight-ish crossplatform package manager for KubeJS scripts written in Python 3.
 
 #### Packaging
 
 - [AlmostPacked](https://github.com/AlmostReliable/almostpacked/) - Automated git hook developed by the Almost Reliable team allowing for distribution of modpacks.
-- [InstanceSync](https://github.com/Vazkii/InstanceSync/) - Git hook allowing for distribution of modpacks using version control. [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned")
+- [InstanceSync](https://github.com/Vazkii/InstanceSync/) [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Git hook allowing for distribution of modpacks using version control.
 - [Packwiz](https://packwiz.infra.link/) - Automation utility for distributing modpacks across the CurseForge and Modrinth ecosystems, written in Go.
 - [Pakku](https://github.com/juraj-hrivnak/Pakku/) - Multiplatform modpack manager for CurseForge and Modrinth ecosystems, written in Kotlin.
 - [Pax](https://github.com/froehlichA/pax/) - Automation utility for distributing modpacks across the CurseForge ecosystem, focused on collaboration and written in Nim.
@@ -163,11 +163,11 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Productivity
 
-- [Draw.io](https://draw.io/) - Tool for creating diagrams that also allows for real-time collaboration, very useful for visualizing code. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [Figma](https://figma.com/) - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
-- [Notion](https://www.notion.so/) - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
-- [Obsidian](https://obsidian.md/) - Open-source individual local document editor using the Markdown format for text files and including various visualization features. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
-- [Trello](https://trello.com/) - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board. [![freeware](icons/misc/freeware.png)](## "Conditionally free")
+- [Draw.io](https://draw.io/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Tool for creating diagrams that also allows for real-time collaboration, very useful for visualizing code.
+- [Figma](https://figma.com/) [![freeware](icons/misc/freeware.png)](## "Conditionally free") - Web tool that allows you to edit design files and FigJam boards which are perfect for brainstorming.
+- [Notion](https://www.notion.so/) [![freeware](icons/misc/freeware.png)](## "Conditionally free") - Closed-source cooperative/individual online text document editor using a custom format with extensive markup features.
+- [Obsidian](https://obsidian.md/) [![freeware](icons/misc/freeware.png)](## "Conditionally free") - Open-source individual local document editor using the Markdown format for text files and including various visualization features.
+- [Trello](https://trello.com/) [![freeware](icons/misc/freeware.png)](## "Conditionally free") - Cloud organization-focused app including various productivity tools, mainly a cooperative ToDo board.
 
 ## Resources
 
@@ -188,26 +188,26 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 ### Websites
 
-- [CFLookup](https://cflookup.com/) - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [CurseRinth](https://curserinth.kuylar.dev/) - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") [![borked](icons/misc/borked.png)](## "Borked")
-- [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) - Forked version of CurseRinth, maintained by tizu69. [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked")
-- [Jacobsjo's Tools And Projects](https://jacobsjo.eu/) - Collection of various web utilities, mainly focused on aiding the development of worldgen datapacks. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) - Simple registry/search website for all package on KJSPKG. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [Linkie](https://linkie.shedaniel.dev/) - WebUI-version of the Linkie discord bot. [![foss](icons/misc/foss.png)](## "Free and open-source")
-- [Mcasset.Cloud](https://mcasset.cloud/) - Frontend for viewing assets in the different versions of the base Minecraft game. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [CFLookup](https://cflookup.com/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
+- [CurseRinth](https://curserinth.kuylar.dev/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") [![borked](icons/misc/borked.png)](## "Borked") - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api.
+- [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked") - Forked version of CurseRinth, maintained by tizu69.
+- [Jacobsjo's Tools And Projects](https://jacobsjo.eu/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Collection of various web utilities, mainly focused on aiding the development of worldgen datapacks.
+- [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Simple registry/search website for all packages on KJSPKG.
+- [Linkie](https://linkie.shedaniel.dev/) [![foss](icons/misc/foss.png)](## "Free and open-source") - WebUI-version of the Linkie discord bot.
+- [Mcasset.Cloud](https://mcasset.cloud/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Frontend for viewing assets in the different versions of the base Minecraft game.
 - [Minecraft GIF to Animated Texture](https://sheeptester.github.io/words-go-here/misc/animated-painting-maker.html) - Converter for turning GIFs into animated texture PNGs and .mcmeta files usable in-game.
-- [Misode Data Pack Generators](https://misode.github.io/) - Collection of various web utilities for datapack editing and visualization. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Misode Data Pack Generators](https://misode.github.io/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Collection of various web utilities for datapack editing and visualization.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
-- [Modpack Index](https://www.modpackindex.com/) - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features. [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") 
+- [Modpack Index](https://www.modpackindex.com/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
 - [UniUI](https://tizudev.vercel.app/uniui/) - Opinionated UI library with a web-based editor for making in-game GUIs with KubeJS.
-- [Unused Textures](https://github.com/malcolmriley/unused-textures/) - Large repository of freely-licensed Minecraft-styled textures. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Unused Textures](https://github.com/malcolmriley/unused-textures/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Large repository of freely-licensed Minecraft-styled textures.
 - [Useful Mods](https://github.com/TheUsefulLists/UsefulMods/) - General list of mods for different versions that improve the performance of the game and fix various bugs.
-- [Writouli](https://writouli.willbl.dev/) - Web editor for [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/)-registered books. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [Writouli](https://writouli.willbl.dev/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Web editor for [Patchouli](https://curseforge.com/minecraft/mc-mods/patchouli/)-registered books.
 
 #### Fun
 
-- [ThisRecipeDoesNotExist](https://thisrecipedoesnotexist.modernmodpacks.site/) - Random recipe generator, can serve as a inspiration for your actual custom recipes. [![foss](icons/misc/foss.png)](## "Free and open-source")
+- [ThisRecipeDoesNotExist](https://thisrecipedoesnotexist.modernmodpacks.site/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Random recipe generator, can serve as a inspiration for your actual custom recipes.
 
 ---
 

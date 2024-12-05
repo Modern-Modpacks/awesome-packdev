@@ -10,7 +10,7 @@ Hey! Thank you for choosing to contribute! Here are some basic rules to abide by
 * Keep on-theme. If something is moddev-related instead of being packdev-related, don't add it.
 * Keep lists alphabetically sorted.
 * Check the "Temporary Modifications" section before editing the list, if such section exists.
-* Follow this format for list items: `- [Name In Title Case](https://link-to-your-suggestions-web.site/) - Description starting with a captial letter and ending with a period, does not include an "A" in front of it (ex. "Something" instead of "A something"). <Any icons directly copied from the icon legend section>`
+* Follow this format for list items: `- [Name In Title Case](https://link-to-your-suggestions-web.site/) <Any icons directly copied from the icon legend section> - Description starting with a captial letter and ending with a period, does not include an "A" in front of it (ex. "Something" instead of "A something").`
 * Try to not use acronyms and abbrivations in the title/description unless their meanings are extremely obvious.
 * All links should start with `https://` and have the `www.` subdomain truncated. If the link doesn't end in a file extension (ex. `.png`, `.html`, etc.), it should also end with a `/`.
 * If the hyperlink points to a mod page, try to use the non-legacy CurseForge one (with the Forge/NeoForge versions if they and the Fabric/Quilt ones are separated into multiple projects). If the project doesn't exist on CurseForge (or if CurseForge page is abandoned), link the website where the up-to-date version of the mod is hosted.
