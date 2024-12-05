@@ -190,7 +190,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 
 - [CFLookup](https://cflookup.com/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Webpage allowing you to look up deleted mods in the CurseForge ecosystem by typing in their IDs.
 - [CurseRinth](https://curserinth.kuylar.dev/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") [![borked](icons/misc/borked.png)](## "Borked") - Frontend for the CurseRinth api, a CurseForge api mirror that's fully compatable with Modrinth's api.
-- [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked") - Forked version of CurseRinth, maintained by tizu69.
+- [CurseRinth (Tizu Fork)](https://curserinth-tizu.vercel.app/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked") - Forked version of CurseRinth, maintained by [tizu69](https://github.com/tizu69).
 - [Jacobsjo's Tools And Projects](https://jacobsjo.eu/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Collection of various web utilities, mainly focused on aiding the development of worldgen datapacks.
 - [KJSPKG Lookup](https://kjspkglookup.modernmodpacks.site/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Simple registry/search website for all packages on KJSPKG.
 - [Linkie](https://linkie.shedaniel.dev/) [![foss](icons/misc/foss.png)](## "Free and open-source") - WebUI-version of the Linkie discord bot.
