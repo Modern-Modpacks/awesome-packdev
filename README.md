@@ -2,7 +2,7 @@
 
 A curated list of mods, apps, and resources simplifying the lives of Minecraft modpack developers.
 
-[**Join the maintainer's Discord!**](https://discord.modernmodpacks.site)
+[**Join the maintainer's Discord!**](https://discord.modernmodpacks.site/)
 
 ## Contents
 
