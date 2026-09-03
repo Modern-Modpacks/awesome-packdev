@@ -203,6 +203,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Misode Data Pack Generators](https://misode.github.io/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Collection of various web utilities for datapack editing and visualization.
 - [Modded Minecraft Reviews](https://mmcreviews.com/) - Community-maintained hub offering reviews for submitted mods and modpacks, includes the ability for maintainers of projects to respond to the reviews.
 - [Modpack Index](https://www.modpackindex.com/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Reimplementation of CurseForge's modpack list/search UI with more filters and other various features.
+- [MRPack Converter](https://mrpackconverter.com/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Browser-based toolkit for converting and inspecting Modrinth MRPack and CurseForge modpack archives while keeping files local.
 - [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) - List of various 1.12.2 optimization mods including the descriptions of what they do.
 - [UniUI](https://tizudev.vercel.app/uniui/) [![unmaintained](icons/misc/unmaintained.png)](## "Unmaintained/abandoned") - Opinionated UI library with a web-based editor for making in-game GUIs with KubeJS.
 - [Unused Textures](https://github.com/malcolmriley/unused-textures/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Large repository of freely-licensed Minecraft-styled textures.
