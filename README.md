@@ -140,6 +140,7 @@ A curated list of mods, apps, and resources simplifying the lives of Minecraft m
 - [Blockbench](https://www.blockbench.net/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Specialized tool for editing Minecraft's various model formats.
 - [LibreSprite](https://libresprite.github.io/) [![foss](icons/misc/foss.png)](## "Free and open-source") [![fork](icons/misc/fork.png)](## "Forked") - Free and open-source maintainted fork of Aseprite, based on its last available version under a free license.
 - [LibreSprite Dotto](https://libresprite.github.io/Dotto/) [![foss](icons/misc/foss.png)](## "Free and open-source") - Version of LibreSprite available directly inside a web browser.
+- [MCToolLab Painting Maker](https://mctoollab.com/paintings/) - Browser-based texture tool for replacing existing Minecraft paintings with custom images and exporting Java or Bedrock resource packs; outputs require in-game testing.
 - [Minecraft Title Generator](https://youtu.be/iGaufrACVj4/) - Blockbench plugin that adds a simple way to generate logos in the Minecraft style.
 
 ### Coding
